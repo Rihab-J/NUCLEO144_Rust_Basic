@@ -5,7 +5,7 @@ and tweaked for the STM32F412 of the NUCLEO-F412ZG board.
 
 required documents : 
 
-Refernce manual : (http://shorturl.at/cvFGO)
+Reference manual : Technical Literature/Reference manual ==> (http://shorturl.at/acBDT)
 
 Datasheet STM32F412ZG : (http://shorturl.at/sAEL2)
 
